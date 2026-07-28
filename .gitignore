@@ -11,4 +11,5 @@ data/processed/*.csv
 !data/processed/.gitkeep
 *.h5
 *.keras
+.coverage
 .pytest_cache/
